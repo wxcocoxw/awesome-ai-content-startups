@@ -41,6 +41,7 @@ The **AI content creation landscape** is growing rapidly, with startups offering
 - **[D-ID](https://www.d-id.com/)** – Digital people and talking avatar creation platform. `Freemium` `Proprietary`
 - **[Fliki](https://fliki.ai/)** – AI-powered video creation for creators. `Freemium` `Proprietary`
 - **[HeyGen](https://www.heygen.com/)** – AI video generation platform for business communication. `Paid` `Proprietary`
+- **[ImagineClip](https://imagineclip.com/ai-image-to-video)** – Prompt, image-to-video, and video-to-video creation with creative effects. `Freemium` `Proprietary`
 - **[Luma Labs](https://lumalabs.ai/)** – 3D video capture and editing powered by AI. `Freemium` `Proprietary`
 - **[Pictory AI](https://pictory.ai/)** – Automatic video creation from text or long-form content. `Paid` `Proprietary`
 - **[Runway AI](https://runwayml.com/)** – Video editing and generative AI tools for creators. `Paid` `Proprietary`
@@ -128,4 +129,3 @@ This list is maintained regularly. Last major update: January 2025
 This project is licensed under the **[MIT License](LICENSE)**.  
 
 ---
-
