@@ -72,6 +72,7 @@ The **AI content creation landscape** is growing rapidly, with startups offering
 - **[WriteSonic](https://writesonic.com/)** – AI writing tool for marketing and content creation. `Freemium` `Proprietary`
 
 ### All-in-One Tools 🌐  
+- **[Autoposting](https://autoposting.ai/)** – AI social media manager that writes, clips, and schedules posts across five networks. `Freemium` `Proprietary`
 - **[Canva AI](https://www.canva.com/features/magic-write/)** – AI-assisted design tools for creators. `Freemium` `Proprietary`
 - **[Epicly AI](https://www.epicly.ai/)** – AI-powered Script, Voiceover and Audio Ad Creation for brands. `Paid` `Proprietary`
 - **[Runway AI](https://runwayml.com/)** – Multi-purpose generative AI tools. `Freemium` `Proprietary`
