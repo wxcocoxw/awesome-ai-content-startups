@@ -46,6 +46,7 @@ The **AI content creation landscape** is growing rapidly, with startups offering
 - **[Runway AI](https://runwayml.com/)** – Video editing and generative AI tools for creators. `Paid` `Proprietary`
 - **[Sora by OpenAI](https://www.sora.com/)** – AI-powered video creation by the creators of ChatGPT. `Unreleased` `Proprietary`
 - **[Synthesia](https://www.synthesia.io/)** – Create AI videos with virtual presenters and voices. `Paid` `Proprietary`
+- **[videos.social](https://videos.social/?utm_source=awesome-ai-content-startups&utm_medium=directory&utm_campaign=listing-wave-d)** – Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included. `Freemium` `Proprietary`
 
 ### Image Generation 🖼️  
 - **[Black Forest Labs](https://blackforestlabs.ai/)** – AI-powered image generation for creators. `Paid` `Proprietary`
