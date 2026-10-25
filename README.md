@@ -44,6 +44,13 @@ The **AI content creation landscape** is growing rapidly, with startups offering
 - **[Luma Labs](https://lumalabs.ai/)** – 3D video capture and editing powered by AI. `Freemium` `Proprietary`
 - **[Pictory AI](https://pictory.ai/)** – Automatic video creation from text or long-form content. `Paid` `Proprietary`
 - **[Runway AI](https://runwayml.com/)** – Video editing and generative AI tools for creators. `Paid` `Proprietary`
+- **[GrokVideo Studio](https://grokvideogenerator.dev/)** – Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits. `Freemium` `Proprietary`
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok). `Paid`
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). `Paid`
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). `Paid`
+- **[KDA Firestarter AI Dance](https://kdafirestarterai.dev)** — Independent unofficial AI: one photo → 13s 480p 21:9 solo dance video (Paid from $7.99). Not affiliated with Riot Games or K/DA. `Paid`
+- **[A2O LITE NEON AI Dance](https://a2oliteai.org)** — Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99). Unofficial. `Paid`
+- **[dime dime baby ai](https://dimedimebabyai.dev)** — Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99). `Paid`
 - **[Sora by OpenAI](https://www.sora.com/)** – AI-powered video creation by the creators of ChatGPT. `Unreleased` `Proprietary`
 - **[Synthesia](https://www.synthesia.io/)** – Create AI videos with virtual presenters and voices. `Paid` `Proprietary`
 
@@ -51,6 +58,7 @@ The **AI content creation landscape** is growing rapidly, with startups offering
 - **[Black Forest Labs](https://blackforestlabs.ai/)** – AI-powered image generation for creators. `Paid` `Proprietary`
 - **[DALL·E](https://openai.com/dall-e)** – Generative image AI by OpenAI. `Paid` `Proprietary`
 - **[Leonardo.ai](https://leonardo.ai/)** – AI image generation for gaming and creative professionals. `Freemium` `Proprietary`
+- **[PromptImage](https://promptimage.cloud/)** – Free AI image & video studio with a prompt library; signup credits, no card required. `Freemium` `Proprietary`
 - **[Midjourney](https://www.midjourney.com/)** – AI art generation through Discord. `Paid` `Proprietary`
 - **[Scenario](https://www.scenario.com/)** – AI-powered game asset generation platform. `Paid` `Proprietary`
 - **[Stability AI](https://stability.ai/)** – Creators of Stable Diffusion for image generation. `Free/Paid` `Open Source`
