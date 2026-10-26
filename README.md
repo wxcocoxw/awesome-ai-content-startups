@@ -11,6 +11,7 @@ This list is open to contributions and serves as a resource for discovering star
 ---
 
 ## Table of Contents  
+- [Ideoy](https://ideoy.ai) - Remake trending AI meme / viral video templates from one photo or selfie
 - [Awesome AI Content Startups 🚀 🤖](#awesome-ai-content-startups--)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
