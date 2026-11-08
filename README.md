@@ -43,6 +43,7 @@ The **AI content creation landscape** is growing rapidly, with startups offering
 - **[HeyGen](https://www.heygen.com/)** – AI video generation platform for business communication. `Paid` `Proprietary`
 - **[Luma Labs](https://lumalabs.ai/)** – 3D video capture and editing powered by AI. `Freemium` `Proprietary`
 - **[Pictory AI](https://pictory.ai/)** – Automatic video creation from text or long-form content. `Paid` `Proprietary`
+- **[ReelAI](https://tryreelai.com/)** – Creates short AI videos from photos using preset effects. `Paid` `License not verified`
 - **[Runway AI](https://runwayml.com/)** – Video editing and generative AI tools for creators. `Paid` `Proprietary`
 - **[Sora by OpenAI](https://www.sora.com/)** – AI-powered video creation by the creators of ChatGPT. `Unreleased` `Proprietary`
 - **[Synthesia](https://www.synthesia.io/)** – Create AI videos with virtual presenters and voices. `Paid` `Proprietary`
